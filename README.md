@@ -12,6 +12,7 @@
   uv pip install -r <(uv pip compile pyproject.toml)
 
 ### Структура проекта
+```
 llm_p/
 ├── pyproject.toml                 # Зависимости проекта (uv)
 ├── README.md                      # Описание проекта и запуск
@@ -60,6 +61,7 @@ llm_p/
 │       └── routes_chat.py         # /chat/*
 │
 └── app.db                         # SQLite база (создаётся при запуске)
+```
 
 ### Эндпоинты
 <img width="458" height="430" alt="chrome_JUjC5T4NB3" src="https://github.com/user-attachments/assets/fb5fd8a0-c672-4167-97b4-0375610f3faf" />
