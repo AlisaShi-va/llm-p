@@ -76,7 +76,7 @@ llm_p/
 <img width="567" height="374" alt="chrome_kCkvGRsLkZ" src="https://github.com/user-attachments/assets/cd43fce1-2607-4e3c-bf74-65f362d76201" />
 <img width="556" height="345" alt="chrome_1MSEycwNbw" src="https://github.com/user-attachments/assets/14a57d8a-896c-4724-a576-e38b69d4b610" />
 
-- Получение информмации о текущем пользователе GET /auth/me
+- Получение информации о текущем пользователе GET /auth/me
 <img width="724" height="401" alt="chrome_gl1p8LqGCk" src="https://github.com/user-attachments/assets/55617fb2-cf3d-49c7-b15e-48ce29cc25af" />
 
 - Запрос в чат POST /chat
